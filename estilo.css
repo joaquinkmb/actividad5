@@ -16,7 +16,30 @@
     font-size: 25px;
 }
 /*Sección Equipo/Quienes somos*/
+.h2info{
+    font-family: "Playfair Display", serif;
+    font-size: 30px;
+}
 
+.h3info{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.info{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
 /*Sección Servicios*/
 
+.lista{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+
 /*Sección footer*/      
+#footer{
+    font-size: 12px;
+    text-align: right;
+}

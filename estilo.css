@@ -1,12 +1,18 @@
 /*Agregamos color de fondo*/
 *{
-    background-color: rgb(78, 86, 107);
+    background-color: rgb(36, 41, 51);
 }
-
+/*Agregamos color general de fuente*/
+*{
+    color:azure;
+}
 /*Sección header*/
-
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
 /*Sección Equipo/Quienes somos*/
 
 /*Sección Servicios*/
 
-/*Sección footer*/
+/*Sección footer*/      
